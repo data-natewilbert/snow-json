@@ -6,7 +6,7 @@ Helpful links to Snowflake documentation:
 
 * https://docs.snowflake.com/en/sql-reference/info-schema/columns.html		  // Metadata is so meta. One example here.
 * https://docs.snowflake.com/en/sql-reference/stored-procedures-api.html		// Using Javascript procedure API.
-* https://docs.snowflake.com/en/sql-reference/functions/flatten.html			  // Key function to break JSON data from it's VARIANT black box field
+* https://docs.snowflake.com/en/sql-reference/functions/flatten.html			  // Key function breaks JSON data from VARIANT black box field
 * https://docs.snowflake.com/en/sql-reference/functions-regexp.html			    // Regular Expression used to clean up JSON data 
 
 Some helpful Snowflake blogs:
